@@ -37,7 +37,7 @@ $EM_CONF[$_EXTKEY] = array(
 			'php' => '5.2.0-0.0.0',
 			'typo3' => '6.1.99-6.2.99',
 			'themes' => '2.5.0-2.5.99',
-			'gridelements' => '3.2.0-3.2.99',
+			'gridelements' => '3.2.0-4.9.99',
 		),
 		'conflicts' => array(
 		),
