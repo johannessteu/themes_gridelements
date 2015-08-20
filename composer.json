@@ -1,0 +1,13 @@
+{
+  "name": "typo3-themes/themes_gridelements",
+  "type": "typo3-cms-extension",
+  "description": "Themes Base for Gridelements",
+  "homepage": "http://typo3.org",
+  "version": "0.6.1",
+  "require": {
+    "typo3/cms-core": ">=6.2.1,<8.0"
+  },
+  "autoload": {
+    "files": ["Classes/Hooks/PreHeaderRenderHook.php"]
+  }
+}
